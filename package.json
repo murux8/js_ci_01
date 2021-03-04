@@ -1,0 +1,20 @@
+{
+  "name": "js_ci_01",
+  "version": "1.0.0",
+  "description": "node js travis-ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murux8/js_ci_01.git"
+  },
+  "keywords": ["npm", "travis"],
+  "author": "Murugan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/murux8/js_ci_01/issues"
+  },
+  "homepage": "https://github.com/murux8/js_ci_01#readme"
+}
